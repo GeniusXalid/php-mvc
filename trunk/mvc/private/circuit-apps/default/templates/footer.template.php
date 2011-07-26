@@ -1,0 +1,3 @@
+<?php
+LM::RenderFooter();
+?>
